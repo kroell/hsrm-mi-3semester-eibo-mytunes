@@ -1,7 +1,9 @@
 hsrm-mi-3semester-eibo-mytunes
 ==============================
 
-<b>MyTunes</b> ist ein auf Java basierender MP3 Player und wurde im 3. Semester im Rahmen der Veranstaltung "Entwicklung interaktiver Benutzeroberflächen" an der Hochschule RheinMain im Studiengang Medieninformatik entwickelt.
+<b>MyTunes</b> ist ein auf Java basierender MP3 Player. 
+
+Die Anwendung wurde im 3. Semester im Rahmen der Veranstaltung "Entwicklung interaktiver Benutzeroberflächen" an der Hochschule RheinMain im Studiengang Medieninformatik entwickelt.
 
 
 <br/>
